@@ -12,4 +12,6 @@ takipçi sayısı post sayısı vs. çekemye yarıyo işte
 
 # contact
 Sorunuz olur ise [*bu telegram adresinden*](http://t.me/tioxxs) bana ulaşabilirsiniz.
+
+
 Telgram blog [*kanalım*](http://t.me/tioxblog)
