@@ -1,5 +1,5 @@
-# twitter-data-class
-taipçi sayısı post sayısı vs. çekemye yarıyo işte 
+# Twitter-data-class
+takipçi sayısı post sayısı vs. çekemye yarıyo işte 
 # twitter2.php
 <div align="center">
   <img src="https://i.hizliresim.com/y3vLRR.png" width="450" height="200">
