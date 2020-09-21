@@ -8,3 +8,7 @@ taipçi sayısı post sayısı vs. çekemye yarıyo işte
 <p align="center">
     twitter.php'yi include ettikten sonra bu kodun aynısını kullanarak takipçi sayısı vs çekebilirsiniz.
  </p>
+
+
+# contact
+Sorunuz olur ise [*bu telegram adresinden*](http://t.me/tioxxs) bana ulaşabilirsiniz.
