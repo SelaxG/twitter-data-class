@@ -35,3 +35,4 @@ public function following() {
 public function sonpost() {
     return $this -> xml -> status -> text;
 }
+}
